@@ -1,9 +1,6 @@
 Just some text
-<<<<<<< HEAD
 This is a test.  11:45 PM
 asdfasdfasdf
 This is another test
-=======
 Even more text - Julius 05/2020 
 Sending a Push!
->>>>>>> branch 'master' of https://github.com/OptikPerfectik/hello-world.git
